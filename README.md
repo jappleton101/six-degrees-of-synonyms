@@ -1,5 +1,5 @@
 #####
-Inspired by games like Wordle and Connections, Six Degrees of Synonyms requires players to spot the common synonym between two words. Unlock the next level by guessing correctly, make it to the top to win.
+Inspired by games like Wordle and Connections, Six Degrees of Synonyms requires players to identify the common synonym between two words. Unlock the next level by guessing correctly, make it to the top to win.
 
 Built using react, Node.js, MongoDB, and Express.
 
